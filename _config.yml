@@ -1,0 +1,14 @@
+layout_spectrum: 0.9551972
+typography_spectrum: 0
+color:
+  saturation: 0.8337382
+  lightness: 0.2235142
+  brandStrength: 0.02508961
+  brandColors:
+    - '#000000'
+    - '#4D97EE'
+    - '#FE5C5A'
+    - '#3BF9FE'
+    - '#E1B2E0'
+  rhythmicContrast: 0.4178257
+name: MadRz
